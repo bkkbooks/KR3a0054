@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3a0054_000.yaml, hash: 'sha256:65e3f3bd3230c2e53e96981e63a6d260ea486a18408a308f40660f31c40cb71a'}
   - {seq: 1, filename: KR3a0054_001.yaml, hash: 'sha256:619b77b7e2ff055dc825d037de399bd2b45a2cc1608e63b3029882c69343c55a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0054_000.markers.yaml, hash: 'sha256:a00656b8a992afbcd3b0f1d1b454d37af4d4eab90810c6832e84d1e4c2315eca'}
-  - {seq: 1, role: markers, filename: assets/KR3a0054_001.markers.yaml, hash: 'sha256:8609c11023a52ead353f5ed0793f99ab9bb25fd4d4913c518be537a7e572a4c4'}
+  - {seq: 0, role: markers, filename: assets/KR3a0054_000.markers.yaml, hash: 'sha256:e67670ba76f03fc06197acf9b9454b49ebb2db1a2ac1c15d54ca0de7d2ace3d4'}
+  - {seq: 1, role: markers, filename: assets/KR3a0054_001.markers.yaml, hash: 'sha256:5553df8d854bee4f680b1cfd432885ac74db0a0fd2fc31c7f4e2f86cd950bb5b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 子思子全書
   type: section
   level: 1
-hash: sha256:27ca4b37fdd724710840c55064104bace1776b8e7b6d79cae43e9bcd8e2c3609
+hash: sha256:5b0d4d69a026569769e482dc57f0b76761050db7bb19053ef4f9e6920c74d923
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
